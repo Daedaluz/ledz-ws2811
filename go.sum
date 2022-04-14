@@ -1,0 +1,7 @@
+github.com/daedaluz/goioctl v0.0.0-20211125123744-59a298ea3080 h1:6e/cOazGT9ur/JwlHxWv5/uuq0BOVIxRTOIjEYxnqrM=
+github.com/daedaluz/goioctl v0.0.0-20211125123744-59a298ea3080/go.mod h1:NbO2vzbi679q0yLroSQd/T4/NnTvpQgHWs7tgZCjiv8=
+github.com/jonboulle/clockwork v0.2.2/go.mod h1:Pkfl5aHPm1nk2H9h0bjmnJD/BcgbGXUBGnn1kMkgxc8=
+periph.io/x/conn/v3 v3.6.9 h1:cSAvXC6IRRYC9pTW/Fzhp0a7zq+aeAxV8+/JZ+oxwZI=
+periph.io/x/conn/v3 v3.6.9/go.mod h1:UqWNaPMosWmNCwtufoTSTTYhB2wXWsMRAJyo1PlxO4Q=
+periph.io/x/periph v3.6.8+incompatible h1:lki0ie6wHtvlilXhIkabdCUQMpb5QN4Fx33yNQdqnaA=
+periph.io/x/periph v3.6.8+incompatible/go.mod h1:EWr+FCIU2dBWz5/wSWeiIUJTriYv9v2j2ENBmgYyy7Y=
